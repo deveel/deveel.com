@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Software Excellence",
+    "description": "Solutions developed and deployed using the most efficient and excellent technologies",
+    "image": "images/features/product.png"
+  },
+  {
+    "title": "Clean Architecture",
+    "description": "",
+    "image": "images/features/blueprint.png"
+  },
+  {
+    "title": "Innovative",
+    "description": "Always looking forward to the future to develop solutions",
+    "image": "images/features/launch.png"
+  }
+]

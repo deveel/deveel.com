@@ -1,0 +1,17 @@
+[
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/deveel",
+    "image": "images/social/linkedin.png"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/deveeldotcom",
+    "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://github.com/deveel",
+    "image": "images/social/github.svg"
+  }
+]
