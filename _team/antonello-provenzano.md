@@ -9,8 +9,10 @@ weight: 1
 layout: team
 ---
 
-Antonello created Deveel and developed services and solutions for the open-source community and customers
+Antonello is the creator of Deveel and the lead architect and developer of the services and solutions offered
 
 ![Antonello](/images/team/antonello-250.png) 
 
-He holds the position and responsibilities of software architect and lead developer of the solutions provided by the organization
+He holds the position and responsibilities to keep the organization going and producing new and innovative solutions, with a main focus on the open-source community, to which he contributed since the joining of the [Mono Project](https://mono-project.com), as one of the first contributors.
+
+With more than 20 years of professional experience in the IT sector of several industries (Finance, Telecommunications, Automotive and GDS), he covered several roles and positions, as _Developer_, _Tech Leader_, _System Architect_, _Solution Architect_ and _Enterprise Architect_
