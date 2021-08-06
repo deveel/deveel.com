@@ -4,6 +4,7 @@ title: 'Deveel.com'
 
 logo:
   desktop: "images/logo/deveel-logo.png"
+  mobile: "images/logo/deveel-logo-only.png"
   desktop_height: "52px"
 
 collections:
