@@ -14,7 +14,7 @@ Antonello is the creator of Deveel and the lead architect and developer of the s
 
 ![Antonello](/images/team/antonello-250.png) 
 
-He holds the position and responsibilities to keep the organization going and producing new and innovative solutions, with a main focus on the open-source community, to which he contributed since the joining of the [Mono Project](https://mono-project.com), as one of the first contributors.
+He holds the position and responsibilities to keep the organization going, and to produce new and innovative solutions, with a main focus on providing for the _open-source_ community, to which he belongs since his joining of the [Mono Project](https://mono-project.com), as one of the first contributors.
 
 With more than 20 years of professional experience in the IT sector of several industries, such as Finance (ING Direct, [Komplett Bank](https://komplettbank.no)), Telecommunications ([LINK Mobility](https://linkmobility.com), [Bayonette](https://bayonette.no)), Automotive ([Bombardier](https://bombardier.com)), Energy (Elactrabel-Suez, Gaz-de-France) and GDS ([Amadeus](https://amadeus.com)), he covered several roles and positions, as _Developer_, _Tech Leader_, _System Architect_, _Solution Architect_ and _Enterprise Architect_.
 

@@ -6,5 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Solutions for your Business
+# Solutions for The World
 
+We are constantly researching and experimenting new technologies and methodologies, mainly for providing to the open-source community.
