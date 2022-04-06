@@ -35,8 +35,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-sitemap
 
-include:
-  - .well-known/
+include: [".well-known"]
 
 exclude:
   - Gemfile
