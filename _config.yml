@@ -1,7 +1,7 @@
-url: 'https://deveel.com'
-baseurl: '/'
+url: "https://deveel.com"
+baseurl: "/"
 permalink: pretty
-title: 'Deveel.com'
+title: "Deveel.com"
 
 logo:
   desktop: "images/logo/deveel-logo.png"
@@ -34,6 +34,9 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-sitemap
+
+include:
+  - .well-known/
 
 exclude:
   - Gemfile
